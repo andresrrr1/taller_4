@@ -19,5 +19,5 @@ print(milista) """
 
 miarreglo=np.reshape((2,10))
 print(miarreglo) """
-miarreglo= np.linspace((0,100,10))
-print(miarreglo.size)
+miarreglo= np.linspace(1,100,10)
+print(miarreglo)
